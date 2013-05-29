@@ -18,7 +18,7 @@
 		<meta property="og:type" content="musician" />
 		<meta property="og:url" content="<?=$page?>" />
 		<meta property="og:image" content="<?=$url?>img/123/perfil%20%28copia%29.jpg" />
-		<meta property="og:site_name" content="LaOtraEskina.com" />
+		<meta property="og:site_name" content="LaOtraEskina.co" />
 		<meta property="og:description" content="De Pereira pa'l mundo! La Otra Eskina y su Guaskatronik" />
 		<meta property="fb:admins" content="613801383" />
 		

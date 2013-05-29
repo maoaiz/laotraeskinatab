@@ -80,7 +80,8 @@ $v=(isset($_GET['v'])) ? $_GET['v'] : sizeof($videos);
 				</div><!--Cierra integrantes-->
 				
 					<div class="comentario" style="">
-						<fb:comments href="<?=$url2?>videos.php?v=<?=$v?>" num_posts="10" width="490"></fb:comments>
+						<!-- <fb:comments href="<?=$url2?>videos.php?v=<?=$v?>" num_posts="10" width="490"></fb:comments> -->
+					<div class="fb-comments" data-href="<?=$url2?>v=<?=$v?>" data-width="490" data-num-posts="10" data-colorscheme="dark"></div>
 					</div>
 				</div>
 				

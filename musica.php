@@ -113,7 +113,8 @@ Para descargar las canciones:
 				<div class="comentario">
 					<fb:like style="color:white" href="<?=$page?>"
 					send="true" layout="standard" width="500"show_faces="false" colorscheme="ligth" font=""></fb:like></div>
-					<fb:comments href="<?=$url2?>musica.php" num_posts="5" width="480"></fb:comments>
+					<!-- <fb:comments href="<?=$url2?>musica.php" num_posts="5" width="480"></fb:comments> -->
+					<div class="fb-comments" data-href="<?=$url2?>musica.php" data-width="480" data-num-posts="10" data-colorscheme="dark"></div>
 				</div>
 				
 			</div><!--Cierra GRande-->

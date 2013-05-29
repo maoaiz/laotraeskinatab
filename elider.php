@@ -69,7 +69,8 @@ include_once "config.php";
 				</div><!--/contenido-->
 				
 				<div class="comentarios">
-					<fb:comments href="<?=$url2?>elider.php" num_posts="6" width="500"></fb:comments>
+					<!-- <fb:comments href="<?=$url2?>elider.php" num_posts="6" width="500"></fb:comments> -->
+					<div class="fb-comments" data-href="<?=$url2?>elider.php" data-width="470" data-num-posts="10" data-colorscheme="dark"></div>
 				</div>
 			</div><!--/grande-->
 						

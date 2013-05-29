@@ -6,6 +6,7 @@ include_once "config.php";
 <html>
 	<head>
 		<?php include_once "cabecera.php";?>
+		<style type="text/css">a,a:visited{color:white;}a:hover{text-decoration: underline;}</style>
 	</head>
 	<body>
 	<?php include_once "facebook_connect.php"; ?>
@@ -23,8 +24,13 @@ include_once "config.php";
 						<span>Elider Gaviria</span><br>
 						<b>317 400 5625<br>311 782 9315</b><br>
 						<div class="correos">
-						elidergaviria@gmail.com<br>
-						elidergaviria@laotraeskina.com
+						<a href="mailto:elidergaviria@gmail.com" target="_blank">
+							elidergaviria@gmail.com
+						</a>
+						<br>
+						<a href="mailto:elider@laotraeskina.co" target="_blank">
+						elider@laotraeskina.co
+						</a>
 						</div>
 						<div class="bar"><!--
 						Encuentranos en:-->
@@ -33,11 +39,12 @@ include_once "config.php";
 					
 					</div>
 				
-				</div><div class="logo-contacto">
+				</div>
+				<div class="logo-contacto">
 					<center>
 					<img src="img/home2.png" width="400px"/></center>
-					<div><div class="poweredby2">Powered by <a href="http://mauricioaizaga.com" target="_blank">MauricioAizaga.com</a></div>
-				
+					<div class="poweredby2">Powered by <a href="http://mauricioaizaga.com" target="_blank">MauricioAizaga.com</a></div>
+				</div>
 			</div>
 			<!---->
 			<!---->

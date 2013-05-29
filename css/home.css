@@ -27,28 +27,28 @@ background: url(http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash4/283398_2380940162
 background: url(http://a6.sphotos.ak.fbcdn.net/hphotos-ak-snc7/313089_171457096277719_134012480022181_339980_62815267_n.jpg) no-repeat 0 0 #FFF;*/
 /*background: url(http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash4/380943_175943682495727_134012480022181_353758_437695141_n.jpg) no-repeat 0 0 #FFF;*/
 /*background: url(http://sphotos-e.ak.fbcdn.net/hphotos-ak-ash4/380943_175943682495727_437695141_n.jpg) no-repeat 0 0 #FFF;*/
-background: url(../img/backgrounds/home.jpg) no-repeat 0 0 #FFF;
+background: url(../img/backgrounds/home.jpg) no-repeat 0 0 #000;
 }
 .contact{
-background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/5.png) no-repeat 0 0 #FFF;
+background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/5.png) no-repeat 0 0 #000;
 }
 .music{
-background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/6.png) no-repeat 0 0 #FFF;
+background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/6.png) no-repeat 0 0 #000;
 }
 .imagen{
-background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/2.png) no-repeat 0 0 #FFF;
+background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/2.png) no-repeat 0 0 #000;
 }
 .uno{
-background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/1.png) no-repeat 0 0 #FFF;
+background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/1.png) no-repeat 0 0 #000;
 }
 .dos{
-background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/1-1.png) no-repeat 0 0 #FFF;
+background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/1-1.png) no-repeat 0 0 #000;
 }
 .video{
-background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/6.png) no-repeat 0 0 #FFF;
+background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/6.png) no-repeat 0 0 #000;
 }
 .contenthome {
-		background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/homeK.png) no-repeat 0 0 #FFF;
+		background: url(http://mauricioaizaga.com/LaOtraEskina/img/backgrounds/homeK.png) no-repeat 0 0 #000;
 		width: 520px; height: 600px; padding:0;
 		margin: 0 auto 0 auto;
 		padding-top:90px;
@@ -279,7 +279,7 @@ border:solid thin red;*/
 .integrantes{/*
 border:solid thin gray;*/
 float:right;
-width:385px;
+width:370px;
 margin-top:15px;
 }
 .musico{

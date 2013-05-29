@@ -67,7 +67,8 @@ include_once "config.php";
 				</div><!--/contenido-->
 				
 				<div class="comentarios"><div>
-					<fb:comments href="<?=$url2?>wilmar.php" num_posts="6" width="500"></fb:comments>
+					<!-- <fb:comments href="<?=$url2?>wilmar.php" num_posts="6" width="500"></fb:comments> -->
+					<div class="fb-comments" data-href="<?=$url2?>wilmar.php" data-width="500" data-num-posts="10" data-colorscheme="dark"></div>
 					</div>
 				</div>
 			</div><!--/grande-->

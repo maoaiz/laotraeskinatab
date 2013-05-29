@@ -1,13 +1,14 @@
 <div class="share"><!--clearfixr-->
 						<ul>
 						<li style="margin-bottom:5px;">
-						<a name="fb_share" type="button" share_url="<?=$page?>"  >Compartir</a>
+						<!-- <a name="fb_share" type="button" share_url="<?=$page?>"  >Compartir</a> -->
+						<div class="fb-like" data-href="<?=$page?>" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
 						</li>
 						<li>
 							<a href="http://twitter.com/share" class="twitter-share-button" 
-								data-url="<?=$page?>"
-								data-count="none" data-via="laotraeskina" data-lang="es" rel="blank" target="_blank">
+								data-url="<?=$page?>" data-via="laotraeskina" data-lang="es" rel="blank" target="_blank">
 							</a>
+							<!-- <a href="https://twitter.com/share" class="twitter-share-button" data-via="MaoAiz" data-lang="es">Twittear</a> -->
 						</li>
 						<li style="margin:0px 0">
 						<g:plusone size="small" href="<?=$page?>"></g:plusone>

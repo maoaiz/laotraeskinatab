@@ -64,7 +64,8 @@ $titulo="La Otra Eskina tambień esta en Facebook";
 				<!---->
 		</div><!--
 		<fb:like href="<?=$page?>" send="true" layout="standard" width="500" show_faces="false" font=""></fb:like>-->
-	<fb:comments href="<?=$url2?>" num_posts="8" width="500"></fb:comments>
+	<!-- <fb:comments href="<?=$url2?>" num_posts="8" width="500"></fb:comments> -->
+	<div class="fb-comments" data-href="<?=$url2?>" data-width="470" data-num-posts="10" data-colorscheme="dark"></div>
 	</div><!-- //main -->
 	<script type="text/javascript">//music/originalmultiple/playlist.xml
 		var options = {};
